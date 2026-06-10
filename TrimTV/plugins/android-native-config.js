@@ -1,4 +1,4 @@
-const {withAndroidStyles} = require('@expo/config-plugins');
+const {withAndroidStyles} = require('expo/config-plugins');
 
 const withAndroidNativeConfig = config => {
   return withAndroidStyles(config, config => {

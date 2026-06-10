@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958940424536",
+    "project_id": "trim-tv",
+    "storage_bucket": "trim-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958940424536:android:169f15e826513902ec9d2d",
+        "android_client_info": {
+          "package_name": "com.trimtv.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd-G1ZQWSnmRIDYcyN4-Chr4m_XtH3F6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

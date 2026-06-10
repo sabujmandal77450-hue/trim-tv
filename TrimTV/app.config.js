@@ -150,14 +150,12 @@ module.exports = () => {
         ...(hasIosGooglePlist
           ? {googleServicesFile: './GoogleService-Info.plist'}
           : {}),
-        bundleIdentifier: 'com.trimtv.app',
-        buildNumber: '1',
       },
       platforms: ['ios', 'android'],
       extra: {
         hasFirebase: hasAndroidGoogleServices || hasIosGooglePlist,
         eas: {
-          projectId: "c62f4ca9-4b95-4834-8a8e-994567d3e474"
+          projectId: "20511bb5-a29b-40f8-8b3b-d0ce2429a757"
         }
       },
     },
