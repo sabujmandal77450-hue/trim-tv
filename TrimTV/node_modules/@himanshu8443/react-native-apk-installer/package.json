@@ -1,0 +1,28 @@
+{
+  "name": "@himanshu8443/react-native-apk-installer",
+  "version": "1.0.0",
+  "description": "A react-native library to install APK on Android",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-app-install"
+  ],
+  "license": "MIT",
+  "author": "himanshu8443",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/himanshu8443/react-native-apk-installer"
+  },
+  "homepage": "https://github.com/himanshu8443/react-native-apk-installer#readme",
+  "bugs": {
+    "url": "https://github.com/himanshu8443/react-native-apk-installer/issues"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  }
+}
